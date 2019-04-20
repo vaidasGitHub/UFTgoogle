@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\vsieber-adm\\Documents\\Unified Functional Testing\\CoBaGUITest\\Res1',namePairs:[]}]};
